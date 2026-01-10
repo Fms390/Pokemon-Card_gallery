@@ -30,8 +30,7 @@ The project displays 4 Pokemon-themed cards with images from various Pokemon cha
 
 ## Live Demo
 
-(https://yourusername.github.io/repo-name)
-
+https://github.com/Fms390/Pokemon-Card_gallery.git
 ## What I Learned
 
 - CSS Flexbox/Grid layouts
